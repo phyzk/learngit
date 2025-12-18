@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 
 git merge1--ff
 git merge2-no-ff
+to be continued...
